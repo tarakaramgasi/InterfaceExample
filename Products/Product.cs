@@ -25,5 +25,6 @@ namespace Products
             Console.WriteLine("we are using Interface1 method");
         }
 
+
     }
 }
